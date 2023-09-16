@@ -77,6 +77,14 @@ If you like this repository, please give it a ⭐ (it really does help)
 
 [`^ Top`](#toc)
 
+## 🔐 [Security](#toc)
+
+While I always follow good security practices, 100% security can never be guaranteed in any software package.  The `Repository Manager` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
+
+If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
+
+[`^ Top`](#toc)
+
 ## 💪 [Available Support](#toc)
 
 ### 🔸Project Resources
@@ -97,14 +105,6 @@ If you like this repository, please give it a ⭐ (it really does help)
 	- [Security Overview](https://github.com/ragdata/repo-manager/security)
 	- [Security Advisories](https://github.com/ragdata/repo-manager/security/advisories)
 	- [Dependabot Alerts](https://github.com/ragdata/repo-manager/security/dependabot)
-
-[`^ Top`](#toc)
-
-## 🔐 [Security](#toc)
-
-While I always follow good security practices, 100% security can never be guaranteed in any software package.  The `Repository Manager` is provided AS IS, and without warranty.  You can find more details in the [LICENSE](LICENSE) file included with this repository.
-
-If you discover any issue regarding the security of this project, please disclose that information responsibly by sending a [security advisory][advisory].  **PLEASE DO NOT CREATE AN ISSUE OR DISCUSSION TOPIC.**  You can read more about this project's security policies [HERE][security]
 
 [`^ Top`](#toc)
 
