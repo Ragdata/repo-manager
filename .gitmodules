@@ -1,0 +1,6 @@
+[submodule "dep/bash-bits"]
+	path = dep/bash-bits
+	url = git@github.com:ragdata/bash-bits
+[submodule "dep/dialog-dojo"]
+	path = dep/dialog-dojo
+	url = git@github.com:ragdata/dialog-dojo
