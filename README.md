@@ -196,9 +196,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 ## 📖 [Resources](#toc)
 
-- [Documentation / Man Pages](https://invisible-island.net/dialog/manpage/dialog.html)
-- [Scripting Examples @ GitHub](https://github.com/tolik-punkoff/dialog-examples)
-- [Website of dialog Author - Thomas E. Dickey](https://invisible-island.net/)
+
 
 [`^ Top`](#toc)
 
